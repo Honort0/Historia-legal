@@ -1,0 +1,25 @@
+#p_teste{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100m;
+    font-style: italic;
+    color:darkgreen;
+    font-weight: bold;    
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+.Felipitos{
+    color:crimson ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#div1{
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#img{
+    justify-content: center;
+    text-align: center;
+    justify-self: center;
+}
